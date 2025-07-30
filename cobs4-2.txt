@@ -1,0 +1,664 @@
+
+
+
+<!DOCTYPE html>
+
+    <!--[if lte IE 9]>
+      <html lang="en" class="no-js lt-ie9">
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <html lang="en" class="no-js">
+    <!--<![endif]-->
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+
+
+<title>
+    COBS 4.2 Fair, clear and not misleading communications - FCA Handbook
+</title>
+
+
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=1000">
+    
+
+
+
+    
+<link rel="stylesheet" href="/assets/fca/css/fa_fallbacks.css">
+
+<link rel="stylesheet" href="/assets/base/css/vendor/chosen.min.css" />
+<link rel="stylesheet" href="/assets/base/fa/css/font-awesome.min.css">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/base/css/ie.css"/>
+<![endif]-->
+    
+<link rel="stylesheet" href="/assets/fca/css/style.css?version=1.1.12">
+<link rel="stylesheet" href="/assets/fca/css/print.css">
+
+
+    <!-- IE -->
+    <!--[if lte IE 8]>
+           <link rel="stylesheet" href="/assets/base/css/ie.css"/>
+           <script src="/assets/base/js/respond.min.js"></script>
+    <![endif]-->
+    <script src="/assets/base/js/vendor/modernizr.js"></script>
+    
+
+
+
+
+<script>
+    // Define dataLayer and the gtag function.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+
+    gtag('consent', 'default', {
+    'functionality_storage': 'granted',
+    'sercurity_storage': 'granted',
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'personalization': 'denied',
+    });
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PT9MM6H');
+</script>
+<!-- End Google Tag Manager -->
+
+<script>
+    gtag('config', 'GTM-PT9MM6H', { 'debug_mode': true });
+</script>
+
+</head>
+
+<body>
+
+    
+
+
+
+
+
+    
+
+
+
+<div id="skip">
+    <a href="#main" style="background-color:#424242">
+        Skip to main content
+    </a>
+</div>
+<header class="header" role="banner">
+    <div class="outer-wrapper">
+        <div class="wrapper">
+
+            
+<div class="logo">
+    <a href="/"><img src="/assets/fca/images/fca-logo.png" alt="Financial Conduct Authority"></a>
+</div>
+
+            
+    <nav aria-label="Secondary navigation">
+        <div class="secondaryNavigation">
+            <ul>
+                <li><a href="https://www.fca.org.uk/" target="_blank">FCA Website</a></li>
+                <li><a href="http://www.prarulebook.co.uk/" target="_blank">PRA Rulebook</a></li>
+                <li><a href="/handbook/glossary/">Glossary</a></li>
+                <li><a href="/useful-links">Useful Links</a></li>
+                <li><a href="/contact-us">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+
+            
+
+
+
+<div class="search search-validation" style="width:320px;">
+
+    <form action="/handbook" name="search-site" method="get">
+        <label for="site-search" class="visually-hidden">Search the Handbook</label>
+        <input autocomplete="off" class="auto-suggest" id="site-search" name="site-search" placeholder="Search the Handbook" required="required" type="text" value="" />
+
+        <input class="search-submit" value="Search" type="submit" aria-label="Submit Search" title="Submit Search" />
+    </form>
+
+    <div class="suggestions">
+
+    </div>
+
+    <a class="advanced-link" href="/adv-search">Advanced Search</a>
+</div>
+
+
+            
+
+
+
+<nav aria-label="Primary navigation">
+
+    <div class="primaryNavigation">
+
+        <ul class="siteNavigation">
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="/handbook">FCA Handbook</a></li>
+                    <li><a href="/news" title="View the latest news, updates and changes">What&#39;s New</a></li>
+                    <li><a href="/instrument" title="View all rule-making and amending instruments">Instruments</a></li>
+                    <li><a href="/form">Forms</a></li>
+                    <li><a href="/handbook-guides">Guides</a></li>
+                    <li><a href="/techstandards">Technical Standards</a></li>
+                    <li><a href="/document/l3g">Level 3 Materials</a></li>
+        </ul>
+        <div class="user">
+
+                <ul class="loginArea">
+                    <li class="register">
+
+                        <a href="/register" title="Register to set up personal alerts and save your favourite pages">Join Up</a>
+
+                    </li>
+                    <li class="">
+
+                        <a href="/Account/Login" title="Access your alerts and favourite pages" class="open-login-box loginButton">Log in</a>
+                    </li>
+                </ul>
+
+        </div>
+
+
+
+<div class="dialog-login" title="Login to FCA Handbook">
+<form action="/Account/Login?ReturnUrl=%2Fhandbook%2FCOBS%2F4%2F2.html" class="login-content" method="post"><input name="__RequestVerificationToken" type="hidden" value="ojoj9bhyxcAEiGw7FWkfNXTL3yEAmh3K7qXqjCtiBhZ9NATld3y_U849_ys87jNlFGHL8jDhPBRX6XrM0Jyet0ycozQ1" />        <fieldset>
+            <legend class="visually-hidden">Login</legend>
+            <div class="control-group ">
+                <label for="UserName">User name</label>
+                <input autocomplete="off" data-val="true" data-val-required="The User name field is required." id="UserName" name="UserName" type="text" value="" />
+            </div>
+            <div class="control-group ">
+                <label for="Password">User password</label>
+                <input autocomplete="off" data-val="true" data-val-required="The User password field is required." id="Password" name="Password" type="password" />
+            </div>
+            <div class="captcha">
+                <div class="CaptchaInput">
+                    <label for="c7">Enter the text shown below</label>
+                    <style>.lol { text-decoration: none!important;cursor: pointer;} #capTbl tbody tr td a {color: black;}</style><input id="c7"  name="c7" type="text" class="form-control" autocomplete="off" required="true" /><input id="captchaInput" name="captchaInput" type="hidden" value="c7" /><div class="captchaPlugin"><div id="imgWrapperc7" class="captchaImage"><img id="imgc7" src="/Handlers/captcha.ashx?id=c7" alt="Captcha confirmation text" /></div><div class="captchaControls"><a href="JavaScript:play('c7', this);" class="lol glyphicon glyphicon-volume-up captchaRefreshIcon btn primary" title="Speak!">Audio version</a><a href="JavaScript:refresh('c7', this);" class="lol glyphicon glyphicon-refresh captchaRefreshIcon btn primary" title="Refresh">Try another</a></div></div><script>var audioDic = {};function refresh(id, clickedButton) {var aud = audioDic[id];if (aud) {aud.pause();aud.currentTime = 0;}audioDic[id] = undefined;var url = '/Handlers/captcha.ashx?base64=1&id=' + id + '&' + Math.random();$.ajax({type: 'GET',url: url,dataType: 'text',success: function (data) {$('#imgWrapper' + id).html('<img src="data:image/png;base64,' + data + '"  alt="Captcha confirmation text" />');},error: function (XMLHttpRequest, textStatus, errorThrown) {$('#captchaStatusMessage').html('The confirmation text failed to load, please refresh the page and try again.');$('#captchaStatus').show();}});}var play = function (id, clickedButton) {var aud = audioDic[id];if (aud == undefined) {aud = new Audio('/Handlers/sayit.ashx?id=' + id);}aud.pause();aud.currentTime = 0;aud.play();audioDic[id] = aud;aud.onerror = function () {$('#captchaStatusMessage').html('The confirmation text has expired. Please click "Try another" to load a new confirmation message and try again.');}}</script>
+                </div>
+            </div>
+        </fieldset>
+        <div class="signOrRegister">
+            <button class="login-button btn primary" type="submit">Sign In</button>
+        </div>
+        <div class="control-group new-or-forgot">
+            <a href="/Account/forgot-password">Forgotten your password?</a>
+            <a href="/register">Register a new account</a>
+        </div>
+</form></div>
+
+    </div>
+</nav>
+
+
+        </div>
+    </div>
+</header>
+﻿
+<!--
+<style>
+    div.user-basket, button.fa-shopping-cart, input[name="nextaction"], #profileEdit {
+        visibility: hidden;
+    }
+</style>
+-->
+<div id="siteMessageBanner" class="outer-wrapper">
+    <div class="wrapper">
+        <section class="notification">
+            <a href="https://beta-handbook.fca.org.uk/" target="_blank"><img src="/assets/fca/images/fca_banner.png" alt="Click to visit the FCA Handbook Beta website"></a>
+        </section>
+    </div>
+</div>
+<script type="text/javascript">
+    function setSiteBanner() {
+        document.cookie = "hideBanner=true; path=/";
+        hideSiteBanner();
+        return false;
+    }
+    function hideSiteBanner() {
+        document.getElementById('siteMessageBanner').getElementsByTagName('section').outerHTML = "";
+    }
+    function getCookie(cname) {
+        let name = cname + "=";
+        let ca = document.cookie.split(';');
+        for (let i = 0; i < ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    window.onload = function (e) {
+        if (getCookie("hideBanner") != "")
+            hideSiteBanner();
+    }
+</script>
+    
+
+
+
+
+    <div class="breadcrumbs">
+        <div class="outer-wrapper">
+            <div class="wrapper">
+                <div>
+                    <ul>
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+                        
+
+
+
+        <li>
+                <a href=/handbook>FCA Handbook</a>
+        </li>
+        <li>
+                <a href=/handbook/COBS/>COBS</a>
+        </li>
+        <li>
+                <a href=/handbook/COBS/4/>COBS 4</a>
+        </li>
+        <li>
+COBS 4.2 Fair, clear and not misleading communicat...        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+
+
+<div class="content" role="main" id="main">
+    <div class="outer-wrapper">
+        <div class="wrapper">
+            <div class="page publication">
+                
+
+
+
+    <div class="tabs">
+        <ul class="primary-tabs">
+            <li class=''>
+                
+                <a class="" href="/handbook/COBS/4/">Table of Contents</a>
+            </li>
+            <li class='active'>
+                
+                <a class="" href="">Content</a>
+            </li>
+            <li class=''>
+                
+                <a class="" href="/handbook/COBS/4/2.html?section=cobs 4.2&amp;view=related-sections">Related Sections</a>
+            </li>
+            <li class=''>
+                
+                <a class="" href="/handbook/COBS/4/2.html?module=cobs&amp;view=related-forms">Related Forms</a>
+            </li>
+            <li class=''>
+                
+                <a class="" href="/handbook/COBS/4/2.html?section=cobs 4.2&amp;view=instrument">Instruments</a>
+            </li>
+            
+        </ul>
+      
+    </div>
+
+                
+
+
+    <nav aria-label="Content navigation top">
+        <div class="content-navigation">
+                    <a class='btn secondary previous '
+                       tabindex=''
+                       href='/handbook/COBS/4/1.html' title="Navigate one page backwards">
+                        <span class="fa fa-caret-left"></span>
+                        Previous
+                    </a>
+                    <a class='btn secondary next '
+                       tabindex=''
+                       href='/handbook/COBS/4/3.html' title="Navigate one page forwards">
+                        Next
+                        <span class="fa fa-caret-right"></span>
+                    </a>
+
+        </div>
+    </nav>
+
+                
+<div class="col_lx wide">
+    
+
+
+
+
+   
+    <div class="widget content-controls">
+        <div class="versions">           
+            <ul>
+    <li class="selected">
+        <a href="/handbook/COBS/4/2.html" title="View the latest version of the current section and a navigable timeline">
+            <span class="fa fa-circle"></span>
+            <span>Latest</span>
+        </a>
+    </li>
+    <li class="enabled">
+        <a href="/handbook/browse-topics/">
+            <span class="fa fa-circle"></span>
+            <span>Browse by topics</span>
+        </a>
+    </li>
+    <li class="enabled">
+        <a href="/document/l3g">
+            <span class="fa fa-circle"></span>
+            <span>Level 3 Materials</span>
+        </a>
+    </li>
+
+            </ul>
+        </div>
+    </div>
+
+    
+
+
+
+    <div class="links">
+        <form>
+            <input id="toggle-timeline" name="toggle-timeline" title="View a timeline showing changes over time for the current section" type="checkbox" value="true" /><input name="toggle-timeline" type="hidden" value="false" />
+            <label for="toggle-timeline" title="View a timeline showing changes over time for the current section">Show timeline</label>
+        </form>
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<div class="widget content-filters">
+    <h2>Content Options:</h2>
+    <fieldset>
+        <legend class="visually-hidden">Content Options</legend>
+            <div>
+                <input checked="checked" id="content-rules" name="content-options" title="Toggle Rules on and off" type="checkbox" value="rule table-rule" /><input name="content-options" type="hidden" value="false" />
+
+                <label for="content-rules" title="Toggle Rules on and off">
+                    <span class="option-symbol">R</span>
+                    Rules
+                </label>
+
+            </div>
+            <div>
+                <input checked="checked" id="content-guidance" name="content-options" title="Toggle guidance sections on and off" type="checkbox" value="guidance table-guide" /><input name="content-options" type="hidden" value="false" />
+
+                <label for="content-guidance" title="Toggle guidance sections on and off">
+                    <span class="option-symbol">G</span>
+                    Guidance
+                </label>
+
+            </div>
+            <div>
+                <input id="content-legal-instruments" name="content-options" title="Toggle Legal instrument indicators on and off" type="checkbox" value="legal" /><input name="content-options" type="hidden" value="false" />
+
+                <label for="content-legal-instruments" title="Toggle Legal instrument indicators on and off">
+                    <span class="fa fa-external-link-square instrument option-symbol"></span>
+                    Legal Instruments
+                </label>
+
+            </div>
+    </fieldset>
+    </div>
+
+
+    <div class="widget tools">
+        
+
+
+
+
+        
+
+
+    <a class="favourite-anchor" href="/Account/Login" title="Add to favourites"><span class="fa fa-star"></span>Add to favourites</a>
+
+        
+
+
+
+    <button class="print-page" title="print">
+        <span class="fa fa-print"></span>
+        <span>Print</span>
+    </button>
+
+
+    </div>
+
+    
+
+
+
+
+    
+
+
+
+<div class="widget">
+        <h2>View Options:</h2>
+                <div>
+                    <a href="#0" class="full-screen-trigger" aria-label="View Full Screen"><span class="fa fa-expand"></span> View Full Screen</a>
+                </div>
+                <div>
+                    <a class="pdf" target="_blank" href="/handbook/COBS/4/2.pdf">View COBS 4.2 as PDF <br /> Updated: 10/07/25</a>
+                </div>
+                <div>
+                    <a class="pdf" target="_blank" href="/handbook/COBS/4.pdf">View COBS 4 as PDF <br /> Updated: 10/07/25</a>
+                </div>
+                <div>
+                    <a class="pdf" target="_blank" href="/handbook/COBS.pdf">View COBS as PDF <br /> Updated: 10/07/25</a>
+                </div>
+</div>
+
+    
+<div class="widget more-resources">
+    <h2>More Resources:</h2>
+    <div>
+        <span class="fa fa-external-link"><span class="accessibility-text">External link</span></span>
+        <a target="_blank" class="" href="http://www.fca.org.uk/your-fca/list?ttypes=Handbook&yyear=&ssearch=">Handbook Publications</a>
+    </div>
+    <div>
+        <span class="fa fa-external-link"><span class="accessibility-text">External link</span></span>
+        <a target="_blank" class="" href="http://www.fca.org.uk/your-fca/list">Consultation papers, Discussion papers, Policy statements</a>
+    </div>
+    <div>
+        <span class="fa fa-file-text-o"><span class="accessibility-text">Plain content</span></span>
+        <a target="_blank" href="/handbook/document/con_dd.pdf">Derivations &amp; destinations </a>
+    </div>
+    
+</div>
+    
+
+
+
+
+</div>
+                
+
+<div class="col_cx">
+
+
+
+
+
+
+
+
+
+        <button class="fa fa-expand full-screen-trigger" title="View full screen">
+            View full screen
+        </button>
+<article xmlns="http://www.w3.org/1999/xhtml"><div class="handbook-content"><header><h1><a name="D297"></a><span class="extended" id="D297">COBS 4.2 </span>Fair, clear and not misleading communications</h1></header><section><header><h2 class="crosstitle">The fair, clear and not misleading rule</h2></header></section><section><div id="D23" class="level rule"><div class="details"><span class="extended" id="D23">COBS 4.2.1</span><a name="D298"></a><span class="section-type rule" title="Rule">R</span><time><span>01/10/2018</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.1" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="rule"><p></p><ol>
+		    <li class="subpara1" id="D93"><a name="D299"></a>(1) <p>A <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> must ensure that a communication or a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a> is fair, clear and not misleading.</p></li>
+		    <li class="subpara1" id="D94"><a name="D300"></a>(2) <p>This <a href="/handbook/glossary/G1036.html" class="autodeftext">rule</a> applies in relation to:</p><ol>
+			<li class="subpara2" id="D190"><a name="D301"></a>(a) <p>a communication by the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> to a <a href="/handbook/glossary/G252.html" class="autodeftext">customer</a><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a> in relation to <a href="/handbook/glossary/G283.html" class="autodeftext">designated investment business</a> which is not <a href="/handbook/glossary/G3548m.html" class="autodeftext">MiFID, equivalent third country or optional exemption business</a>,<a href="/instrument/2017/FCA_2017_67.pdf" target="_blank" title="FCA 2017/67 - 03/01/2018" class="changed-by">7</a> other than a <a href="/handbook/glossary/G2482.html" class="autodeftext">third party prospectus</a>;</p></li>
+			<li class="subpara2" id="D461828">(aa) <p><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a>a communication to an <a href="/handbook/glossary/G1973.html" class="autodeftext">eligible counterparty</a> that is in relation to:<a href="/instrument/2018/FCA_2018_25.pdf" target="_blank" title="FCA 2018/25 - 01/10/2018" class="changed-by">8</a></p><ol>
+			    <li class="subpara3" id="D461914">(i) <p><a href="/handbook/glossary/G2474.html" class="autodeftext">MiFID or equivalent third country business</a> other than a <a href="/handbook/glossary/G2482.html" class="autodeftext">third party prospectus</a>; or<a href="/instrument/2018/FCA_2018_25.pdf" target="_blank" title="FCA 2018/25 - 01/10/2018" class="changed-by">8</a></p></li>
+			    <li class="subpara3" id="D461915">(ii) <p><a href="/handbook/glossary/G3492i.html" class="autodeftext">insurance distribution</a>;<a href="/instrument/2018/FCA_2018_25.pdf" target="_blank" title="FCA 2018/25 - 01/10/2018" class="changed-by">8</a></p></li>
+			  </ol></li>
+			<li class="subpara2" id="D461911">(ab) <p><a href="/instrument/2017/FCA_2017_67.pdf" target="_blank" title="FCA 2017/67 - 03/01/2018" class="changed-by">7</a>a communication by the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> to a <a href="/handbook/glossary/G252.html" class="autodeftext">customer</a> in relation to <a href="/handbook/glossary/G3548m.html" class="autodeftext">MiFID, equivalent third country or optional exemption business</a>, other than a <a href="/handbook/glossary/G2482.html" class="autodeftext">third party prospectus</a>;</p></li>
+			<li class="subpara2" id="D191"><a name="D302"></a>(b) <p>a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a> <a href="/handbook/glossary/G186.html" class="autodeftext">communicated</a> by the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> that is not:</p><ol>
+			    <li class="subpara3" id="D267">(i) <p>an <a href="/handbook/glossary/G2468.html" class="autodeftext">excluded communication</a>;</p></li>
+			    <li class="subpara3" id="D268">(ii) <p>a <a href="/handbook/glossary/G2475.html" class="autodeftext">non-retail communication</a>;</p></li>
+			    <li class="subpara3" id="D269">(iii) <p>a <a href="/handbook/glossary/G2482.html" class="autodeftext">third party prospectus</a>; and</p></li>
+			  </ol></li>
+			<li class="subpara2" id="D192"><a name="D303"></a>(c) <p>a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a> approved by the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a>.</p></li>
+		      </ol></li>
+		    <li class="subpara1" id="D461829">(3) <p><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a>As part of complying with (1), a <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> must take into account the nature of the <a href="/handbook/glossary/G156.html" class="autodeftext">client</a>.</p></li>
+		  </ol></div><div class="note"><p>[<strong>Note: </strong> ,<a href="/instrument/2011/2011_39.pdf" target="_blank" title="FSA 2011/39 - 01/07/2011" class="changed-by">3</a>article 24(3) and article 30(1) of <a href="/handbook/glossary/G1975.html" class="autodeftext">MiFID</a>, article 17(2) of the <a href="/handbook/glossary/G3482i.html" class="autodeftext">IDD</a><a href="/instrument/2018/FCA_2018_25.pdf" target="_blank" title="FCA 2018/25 - 01/10/2018" class="changed-by">8</a>  and article 77 of the <a href="/handbook/glossary/G1199.html" class="autodeftext">UCITS Directive</a>]<a href="/instrument/2011/2011_39.pdf" target="_blank" title="FSA 2011/39 - 01/07/2011" class="changed-by">3</a></p><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a></div></div></div></section><section><div id="D24" class="level guidance"><div class="details"><span class="extended" id="D24">COBS 4.2.2</span><a name="D304"></a><span class="section-type guidance" title="Guidance">G</span><time><span>01/10/2018</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.2" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="guidance"><ol>
+		    <li class="subpara1" id="D274">(1) <p><a href="/instrument/2007/2007_58.pdf" target="_blank" title="FSA 2007/58 - 01/11/2007" class="changed-by">1</a>The <a href="/handbook/glossary/G2386.html" class="autodeftext">fair, clear and not misleading rule</a> applies in a way that is appropriate and proportionate taking into account the means of communication,<a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a> the information the communication is intended to convey and the nature of the <a href="/handbook/glossary/G156.html" class="autodeftext">client</a> and of its business, if any<a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a>. So a communication addressed to a <a href="/handbook/glossary/G1979.html" class="autodeftext">professional client</a> or an <a href="/handbook/glossary/G1973.html" class="autodeftext">eligible counterparty</a><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a> may not need to include the same information, or be presented in the same way, as a communication addressed to a <a href="/handbook/glossary/G1980.html" class="autodeftext">retail client</a>.</p></li>
+		    <li class="subpara1" id="D275">(2) <p><span class="xref"><span class="xrefin" id="SRC39"><a href="/handbook/COBS/4/2.html#D302">COBS 4.2.1R(2)(b)</a></span></span><a href="/instrument/2007/2007_58.pdf" target="_blank" title="FSA 2007/58 - 01/11/2007" class="changed-by">1</a> does not limit the application of the <a href="/handbook/glossary/G2386.html" class="autodeftext">fair, clear and not misleading rule</a> under <span class="xref"><span class="xrefin" id="SRC40"><a href="/handbook/COBS/4/2.html#D301">COBS 4.2.1R (2) (a)</a></span></span>.  So, for example, a communication in relation to <a href="/handbook/glossary/G283.html" class="autodeftext">designated investment business</a> that is both a communication to a <a href="/handbook/glossary/G1979.html" class="autodeftext">professional client</a> and a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a>, will still be subject to the <a href="/handbook/glossary/G2386.html" class="autodeftext">fair, clear and not misleading rule</a>.</p></li>
+		  </ol><p><a href="/instrument/2017/FCA_2017_39.pdf" target="_blank" title="FCA 2017/39 - 03/01/2018" class="changed-by">6</a>[<strong>Note: </strong> article 30(1) of <a href="/handbook/glossary/G1975.html" class="autodeftext">MiFID</a> and recital 65 to the <a href="/handbook/glossary/G3560m.html" class="autodeftext">MiFID Org Regulation</a>, article 17(2) of the <a href="/handbook/glossary/G3482i.html" class="autodeftext">IDD</a><a href="/instrument/2018/FCA_2018_25.pdf" target="_blank" title="FCA 2018/25 - 01/10/2018" class="changed-by">8</a>]</p></div></div></div></section><section><div id="D25" class="level guidance"><div class="details"><span class="extended" id="D25">COBS 4.2.3</span><a name="D305"></a><span class="section-type guidance" title="Guidance">G</span><time><span>01/04/2013</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.3" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="guidance"><p>Part 7 (Offences relating to Financial Services) of the <a href="https://www.legislation.gov.uk/ukpga/2012/21/2013-04-01" target="_blank" class="external-link">Financial Services Act 2012</a> creates criminal offences relating to certain misleading statements and practices.</p></div></div></div></section><section><header><h2 class="crosstitle">Fair, clear and not misleading financial promotions</h2></header></section><section><div id="D26" class="level guidance"><div class="details"><span class="extended" id="D26">COBS 4.2.4</span><a name="D306"></a><span class="section-type guidance" title="Guidance">G</span><time><span>01/04/2013</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.4" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="guidance"><p>A <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> should ensure that a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a>:</p><ol>
+		    <li class="subpara1" id="D95"><a name="D307"></a>(1) <p>for a product or service that places a <a href="/handbook/glossary/G156.html" class="autodeftext">client's</a> capital at risk makes this clear;</p></li>
+		    <li class="subpara1" id="D96"><a name="D308"></a>(2) <p>that quotes a yield figure gives a balanced impression of both the short and long term prospects for the <a href="/handbook/glossary/G588.html" class="autodeftext">investment</a>;</p></li>
+		    <li class="subpara1" id="D97"><a name="D309"></a>(3) <p>that promotes an <a href="/handbook/glossary/G588.html" class="autodeftext">investment</a> or service whose charging structure is complex, or in relation to which the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> will receive more than one element of remuneration, includes the information necessary to ensure that it is fair, clear and not misleading and contains sufficient information taking into account the needs of the recipients;</p></li>
+		    <li class="subpara1" id="D98"><a name="D310"></a>(4) <p>that names the <a href="/handbook/glossary/G2974.html" class="autodeftext">FCA</a>, <a href="/handbook/glossary/G2975.html" class="autodeftext">PRA</a> or both as its regulator and refers to matters not regulated by either the <a href="/handbook/glossary/G2974.html" class="autodeftext">FCA</a>, <a href="/handbook/glossary/G2975.html" class="autodeftext">PRA</a> or both makes clear that those matters are not regulated by the <a href="/handbook/glossary/G2974.html" class="autodeftext">FCA</a>, <a href="/handbook/glossary/G2975.html" class="autodeftext">PRA</a> or either;</p></li>
+		    <li class="subpara1" id="D99"><a name="D311"></a>(5) <p>that offers <a href="/handbook/glossary/G831.html" class="autodeftext">packaged products</a> or <a href="/handbook/glossary/G1477.html" class="autodeftext">stakeholder products</a> not produced by the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a>, gives a fair, clear and not misleading impression of the producer of the product or the manager of the underlying investments.</p></li>
+		  </ol></div></div></div></section><section><div id="D27" class="level guidance"><div class="details"><span class="extended" id="D27">COBS 4.2.5</span><a name="D312"></a><span class="section-type guidance" title="Guidance">G</span><time><span>25/04/2013</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.5" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="guidance"><p><a href="/instrument/2009/2009_52.pdf" target="_blank" title="FSA 2009/52 - 01/11/2009" class="changed-by">2</a>A communication or a <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a> should not describe a feature of a product or service as “guaranteed”, “protected” or “secure”, or use a similar term unless:</p><a href="/instrument/2009/2009_52.pdf" target="_blank" title="FSA 2009/52 - 01/11/2009" class="changed-by">2</a><a href="/instrument/2011/2011_53.pdf" target="_blank" title="FSA 2011/53 - 22/03/2012" class="changed-by">4</a><ol>
+		    <li class="subpara1" id="D329"><a name="DES556"></a>(1) <p>that term is capable of being a fair, clear and not misleading description of it; and</p></li>
+		    <li class="subpara1" id="D330"><a name="DES557"></a>(2) <p>the <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> communicates all of the information necessary, and presents that information with sufficient clarity and prominence, to make the use of that term fair, clear and not misleading.<a href="/instrument/2011/2011_53.pdf" target="_blank" title="FSA 2011/53 - 22/03/2012" class="changed-by">4</a><a href="/instrument/2013/FCA_2013_40.pdf" target="_blank" title="FCA 2013/40 - 25/04/2013" class="changed-by">5</a></p></li>
+		  </ol></div></div></div></section><section><header><h2 class="crosstitle">The reasonable steps defence to an action for damages</h2></header></section><section><div id="D276" class="level rule"><div class="details"><span class="extended" id="D276">COBS 4.2.6</span><a name="DES527"></a><span class="section-type rule" title="Rule">R</span><time><span>01/04/2013</span></time><span class="section-type"><a href="/handbook?related-provisions-for-provision=COBS 4.2.6" title="Related Provisions" class="related-provisions autodeftext">RP</a></span></div><div class="section-content"><div class="rule"><p><a href="/instrument/2007/2007_58.pdf" target="_blank" title="FSA 2007/58 - 01/11/2007" class="changed-by">1</a>If, in relation to a particular communication or <a href="/handbook/glossary/G421.html" class="autodeftext">financial promotion</a>, a <a href="/handbook/glossary/G430.html" class="autodeftext">firm</a> takes reasonable steps to ensure it complies with the <a href="/handbook/glossary/G2386.html" class="autodeftext">fair, clear and not misleading rule</a>, a contravention of that <a href="/handbook/glossary/G1036.html" class="autodeftext">rule</a> does not give rise to a right of action under section 138D of the <a href="/handbook/glossary/G10.html" class="autodeftext">Act</a>.</p></div></div></div></section></div></article><div id="glossaryPageLoading" style="display:none;" class="loading-gif-overlay"><div style="display:none;" id="glossaryPageLoadingIcon" class="loading-gif gif centre-within-parent"></div></div>
+</div>
+
+                
+
+
+
+<nav aria-label="Content navigation bottom">
+    <div class="content-navigation bottom-nav">
+            <a title="Navigate one page backwards" aria-label=""
+               class='btn secondary previous '
+               href='/handbook/COBS/4/1.html'>
+                <span class="fa fa-caret-left"></span>Previous
+            </a>
+            <a title="Navigate one page forwards"
+               class='btn secondary next '
+               href='/handbook/COBS/4/3.html'>
+                Next
+                <span class="fa fa-caret-right"></span>
+            </a>
+    </div>
+</nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="dialog-favourite" title="Favourite">
+    <p>
+
+    </p>
+</div>
+
+    
+<footer role="contentinfo">
+            <div class="outer-wrapper">
+                <div class="wrapper">
+                    <div class="page-feedback-link">
+                        <a href="/whats-wrong" class="link">Is there anything wrong with this page?</a>
+                    </div>
+
+                </div>
+            </div>
+
+    <div class="outer-wrapper footer">
+        <div class="wrapper">
+            <div class="utility">
+                <div class="col_lx">
+                    <div class="links">
+                        <ul>
+                            <li><a href="/contact-us">Contact us</a></li>
+                            <li><a href="/accessibility">Accessibility</a></li>
+                            <li><a href="/help">Help</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col_rx footer-section">
+                    <div class="links">
+                        <ul class="footer-links">
+                            <li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+                            <li><a href="/legal">Legal Information</a></li>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="about">
+                <div class="col_lx wide">
+
+                </div>
+                <div class="col_rx">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    
+<script>
+    var mlGlossaryEndPoint = 'https://www.handbook.fca.org.uk/glossary-lookup/tool/glossary';
+</script>
+<script data-main="/assets/fca/js/app" src="/assets/base/js/vendor/require.js?vn=1.1.12"></script>
+<script>require.config({ urlArgs: "vn=1.1.12" });</script>
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.943/pdf.min.js"></script>
+    
+
+
+
+
+</body>
+    
+</html>
+
+   
